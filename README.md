@@ -22,7 +22,7 @@ Confusion matrix for SVM :
 
 ![ImageSVM](image.png)
 
-ROC Curve for SVM :
+ROC Curve for SVM - ruc_score is 0.75:
 
 ![SVM-ROC](image-1.png)
 
@@ -30,10 +30,6 @@ Confusion matrix for Random Forest :
 
 ![ImageRF](image-2.png)
 
-ROC Curve for Random Forest :
+ROC Curve for Random Forest - ruc_score is 0.79:
 
 ![RF-ROC](image-3.png)
-
-<b>Important features</b>
-
-![FeaturesImage](image-4.png)
